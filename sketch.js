@@ -37,7 +37,7 @@ function preload(){
         boyAni = loadAnimation("images/boy0.png","images/boy1.png","images/boy2.png","images/boy3.png");
         boyCollided = loadImage('images/boy0.png');
         groundImg = loadImage("images/ground.png");
-        startImg = loadImage("images/startImg.PNG");
+        startImg = loadImage("images/startImg.png");
         startButtonImg = loadImage('images/START.PNG');
         fruitImg1 = loadImage('images/fruit1.png');
         fruitImg2 = loadImage('images/fruit2.png');
